@@ -1,7 +1,7 @@
 # 🚗 Montgomery Fleet Inventory Analysis
 
 ## 📌 Project Overview
-This project is part of a peer-graded final assignment in a data analysis course. The objective was to clean and analyze a dataset related to the fleet equipment inventory of Montgomery County, using Excel for the Web.
+This project is part of a peer-graded final assignment in a data analysis course. The objective was to clean and analyze a dataset related to the fleet equipment inventory of Montgomery County, using Excel.
 
 ---
 
