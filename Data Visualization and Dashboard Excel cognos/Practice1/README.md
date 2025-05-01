@@ -2,7 +2,7 @@
 
 Bienvenue dans ce projet pratique réalisé dans le cadre du IBM Data Analyst Professional Certificate.
 
-Ce TP avait pour objectif de se familiariser avec la création de graphiques de base dans **Excel pour le web**, à partir de données de ventes de voitures.
+Ce TP avait pour objectif de se familiariser avec la création de graphiques de base dans **Excel**, à partir de données de ventes de voitures.
 
 ## 🗂 Objectifs du Lab
 
